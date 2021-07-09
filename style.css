@@ -1,0 +1,22 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+
+#myCanvas
+{
+   border-width:10px;
+   background-color: white;
+   border-style: ridge;
+   border-color: royalblue;
+   background-image: url(BirthdayImage.jpg);
+   background-repeat: no-repeat;
+}
+
+button {
+    color: black;
+    background-color: royalblue;
+}
+
